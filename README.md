@@ -4,3 +4,5 @@ Image slider which consists of HTML, CSS, and Javascript to display Christmas-th
 # Screenshots:
 ![cookies](https://i.imgur.com/26jExU2.png)
 ![coffee](https://i.imgur.com/yNrWTAV.png)
+
+link: https://shamique202.github.io/ImageSlider/
